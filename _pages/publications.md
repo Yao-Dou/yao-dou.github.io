@@ -6,5 +6,5 @@ author_profile: true
 ---
 
 MultiTalk: A Highly-Branching Dialog Testbed for Diverse Conversations  
-**Yao Dou**, Maxwell Forbes, Ari Holtzman, Yejin Choi  
+**Yao Dou**,Maxwell Forbes, Ari Holtzman, Yejin Choi  
 AAAI 2021
