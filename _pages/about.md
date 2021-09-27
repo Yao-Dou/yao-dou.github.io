@@ -10,6 +10,6 @@ redirect_from:
 
 This is Yao Dou!
 
-I am an undregraduate senior at University of Washignton. My current research interests lie in natural language processing (NLP), especially conversational AI and text generation . My mentor is [Prof. Yejin Choi](https://homes.cs.washington.edu/~yejin/).
+I am a PhD student at Georgia Tech advised by [Prof. Wei Xu](https://cocoxu.github.io/).  My current research interests lie in natural language processing (NLP), especially conversational AI, paraphrase generation, and text evaluation.
 
-I am super fortunate to work with these amazing graduate students: [Maxwell Forbes](https://maxwellforbes.com/), [Ari Holtzman](https://ari-holtzman.github.io/), and [Dr. Rik Koncel-Kedziorski](https://rikdz.github.io/).
+I achieved by BS from University of Washignton. My mentor was [Prof. Yejin Choi](https://homes.cs.washington.edu/~yejin/). I was super fortunate to work with these amazing graduate students: [Maxwell Forbes](https://maxwellforbes.com/), [Ari Holtzman](https://ari-holtzman.github.io/), and [Dr. Rik Koncel-Kedziorski](https://rikdz.github.io/).

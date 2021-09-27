@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yao Dou"
   avatar           : "profile.jpg"
-  bio              : "Undergraduate Senior at University of Washington, research in Natural Language Processing"
-  location         : "Cary, NC"
+  bio              : "PhD student at Georgia Tech, research in Natural Language Processing"
+  location         : "CODA at Tech Square 1183R, Atlanta, GA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "douy@cs.washington.edu"
+  email            : "douy@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : @dou_yao
   vine             :
   weibo            :
   xing             :
