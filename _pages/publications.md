@@ -28,3 +28,9 @@ ACL 2022
 MultiTalk: A Highly-Branching Dialog Testbed for Diverse Conversations <a href="https://arxiv.org/abs/2102.01263" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Paper]</a>\
 **Yao Dou**, Maxwell Forbes, Ari Holtzman, Yejin Choi\
 AAAI 2021
+
+## Tutorial
+
+Automatic and Human-AI Interactive Text Generation (with a focus on Text Simplification and Revision)  <a href="https://arxiv.org/abs/2310.03878" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Proposal]</a>\
+**Yao Dou**\*, Philippe Laban\*, Claire Cardent, Wei Xu\
+ACL 2024
