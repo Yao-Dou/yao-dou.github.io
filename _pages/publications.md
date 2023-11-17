@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Preprints
+Reducing Privacy Risks in Online Self-Disclosures with Language Models &nbsp; <a href="https://arxiv.org/abs/2311.09538" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Paper]</a> \
+**Yao Dou**, Isadora Krsek, Tarek Naous, Anubha Kabra, Sauvik Das, Alan Ritter, Wei Xu\
+arXiv Nov 2023
+
+## Publications
+
 Thresh 🌾: A Unified, Customizable and Deployable Platform for Fine-Grained Text Evaluation &nbsp; <a href="https://thresh.tools/" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Webpage]</a> <a href="https://github.com/davidheineman/thresh" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[GitHub]</a> <a href="https://arxiv.org/abs/2308.06953" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Paper]</a> \
 David Heineman, **Yao Dou**, Wei Xu\
 EMNLP 2023 (Demo)
