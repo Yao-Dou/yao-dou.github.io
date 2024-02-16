@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-You can downlod my [CV](../files/yao_cv_1117.pdf) here.
+You can download my [CV](../files/yao_cv_1117.pdf) here.
