@@ -6,11 +6,20 @@ author_profile: true
 ---
 
 ## Preprints
-Reducing Privacy Risks in Online Self-Disclosures with Language Models &nbsp; <a href="https://arxiv.org/abs/2311.09538" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Paper]</a> \
-**Yao Dou**, Isadora Krsek, Tarek Naous, Anubha Kabra, Sauvik Das, Alan Ritter, Wei Xu\
-arXiv Nov 2023
+
+Improving Minimum Bayes Risk Decoding with Multi-Prompt &nbsp; <a href="https://arxiv.org/abs/2407.15343" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Paper]</a> \
+David Heineman, **Yao Dou**, Wei Xu\
+arXiv July 2024
+
+GPT-4 Jailbreaks Itself with Near-Perfect Success Using Self-Explanation &nbsp; <a href="https://arxiv.org/abs/2405.13077" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Paper]</a> \
+Govind Ramesh, **Yao Dou**, Wei Xu\
+arXiv May 2024
 
 ## Publications
+
+Reducing Privacy Risks in Online Self-Disclosures with Language Models &nbsp; <a href="https://arxiv.org/abs/2311.09538" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Paper]</a> <a href="https://huggingface.co/datasets/douy/reddit-self-disclosure" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Dataset]</a> <a href="https://huggingface.co/douy/deberta-v3-large-self-disclosure-detection" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Model]</a>  \
+**Yao Dou**, Isadora Krsek, Tarek Naous, Anubha Kabra, Sauvik Das, Alan Ritter, Wei Xu\
+ACL 2024
 
 Thresh 🌾: A Unified, Customizable and Deployable Platform for Fine-Grained Text Evaluation &nbsp; <a href="https://thresh.tools/" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Webpage]</a> <a href="https://github.com/davidheineman/thresh" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[GitHub]</a> <a href="https://arxiv.org/abs/2308.06953" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Paper]</a> \
 David Heineman, **Yao Dou**, Wei Xu\
@@ -38,6 +47,6 @@ AAAI 2021
 
 ## Tutorial
 
-Automatic and Human-AI Interactive Text Generation (with a focus on Text Simplification and Revision)  <a href="https://arxiv.org/abs/2310.03878" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Proposal]</a>\
+Automatic and Human-AI Interactive Text Generation <a href="https://acl2024-text-generation-tutorial.github.io/" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Webpage]</a> <a href="https://arxiv.org/abs/2310.03878" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;">[Proposal]</a>\
 **Yao Dou**\*, Philippe Laban\*, Claire Cardent, Wei Xu\
 ACL 2024
