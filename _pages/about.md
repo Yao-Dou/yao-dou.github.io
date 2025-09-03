@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD student at Georgia Tech advised by [Prof. Wei Xu](https://cocoxu.github.io/).  My current research interests lie in natural language processing (NLP), especially text generation, evaluation and online user privacy.
+I am a fifth year PhD student at Georgia Tech advised by [Prof. Wei Xu](https://cocoxu.github.io/).  My current research interests lie in natural language processing, especially large langauge model evaluation.
 
-I achieved my BS from University of Washington, where my mentor was [Prof. Yejin Choi](https://homes.cs.washington.edu/~yejin/). I was super fortunate to work with these amazing graduate students: [Dr. Maxwell Forbes](https://maxwellforbes.com/), [Dr.Ari Holtzman](https://nlp2.notion.site/), and [Dr. Rik Koncel-Kedziorski](https://rikdz.github.io/).
+I got my BS from University of Washington at age 20, where my mentor was [Prof. Yejin Choi](https://homes.cs.washington.edu/~yejin/). I was fortunate to work with these amazing graduate students: [Dr. Maxwell Forbes](https://maxwellforbes.com/), [Dr.Ari Holtzman](https://nlp2.notion.site/), and [Dr. Rik Koncel-Kedziorski](https://rikdz.github.io/).

@@ -39,3 +39,14 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+/* Custom styles for about page links */
+.page__content a {
+  text-decoration: none;
+  color: #2c2c2c; /* Dark gray, close to black but distinguishable */
+  transition: opacity 0.2s ease-in-out;
+}
+
+.page__content a:hover {
+  opacity: 0.7;
+}

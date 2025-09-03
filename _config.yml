@@ -83,10 +83,10 @@ author:
   name             : "Yao Dou"
   avatar           : "profile.jpg"
   bio              : "PhD student at Georgia Tech, research in Natural Language Processing"
-  location         : "CODA S1183R, Atlanta, GA"
+  location         :
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=6_aoS74AAAAJ&hl=en"
   email            : "douy@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "yao-dou"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
