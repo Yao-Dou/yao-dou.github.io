@@ -74,10 +74,24 @@
   
   .masthead {
     min-height: 50px; /* Maintain the white space at top */
+    border-bottom: none !important;
   }
   
   .masthead__inner-wrap {
     padding: 1em 1em 1em;
+  }
+  
+  /* Make page title smaller */
+  .page__title {
+    font-size: 1.5em !important; /* Reduced from default 2.441em */
+    font-weight: 500;
+  }
+  
+  /* Make section headers (Publications, Tutorial) appropriately sized */
+  .page__content h2 {
+    font-size: 1.3em !important;
+    margin-top: 2em;
+    margin-bottom: 0.5em;
   }
 </style>
 
