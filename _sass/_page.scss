@@ -74,12 +74,13 @@
 
   a {
     text-decoration: none;
-    color: #2c2c2c; /* Dark gray, close to black but distinguishable */
+    color: #4a4a4a; /* Medium dark grey for optimal contrast with black text */
     transition: opacity 0.2s ease-in-out;
 
     &:hover {
       text-decoration: none;
-      opacity: 0.7;
+      opacity: 0.75;
+      color: #2c2c2c; /* Darker on hover */
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
