@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yao Dou"
 title_separator          : "-"
 name                     : &name "Yao Dou"
-description              : &description "PhD student at Georgia Tech"
+description              : &description "Ph.D. student at Georgia Tech"
 url                      : https://yao-dou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yao-dou.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yao Dou"
   avatar           : "profile.jpg"
-  bio              : "PhD student at Georgia Tech, research in Natural Language Processing"
+  bio              : "Ph.D. student at Georgia Tech, research in Natural Language Processing"
   location         :
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
