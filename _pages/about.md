@@ -12,7 +12,7 @@ Hello, Welcome!
 
 I am a fifth-year Ph.D. student at Georgia Tech, advised by [Prof. Wei Xu](https://cocoxu.github.io/){:target="_blank"}. I received my B.S. from University of Washington at age 20, advised by [Prof. Yejin Choi](https://homes.cs.washington.edu/~yejin/){:target="_blank"}.
 
-My research focuses on **evaluating and applying large language models**: I develop learned evaluation metrics, fine-grained evaluation methods, and user simulators for multi-turn evaluation of AI assistants. I also explore how to apply LLMs in real-world problems such as protecting user privacy on social media.
+My research focuses on **evaluating large language models on hard-to-evaluate tasks**. I develop learned evaluation metrics, fine-grained evaluation methods, user simulators for multi-turn evaluation, and long-context evaluation with checklists and agents. I also explore applying LLMs to real-world problems such as measuring and protecting user privacy on social media.
 
 ## Representative Work
 
