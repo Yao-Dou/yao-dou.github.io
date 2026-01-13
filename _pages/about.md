@@ -15,6 +15,11 @@ I am a fifth-year Ph.D. student at Georgia Tech, advised by [Prof. Wei Xu](https
 My research focuses on **evaluating and applying large language models**: I develop learned evaluation metrics, fine-grained evaluation methods, and user simulators for multi-turn evaluation of AI assistants. I also explore how to apply LLMs in real-world problems such as protecting user privacy on social media.
 
 ## Representative Work
+
+Gavel: Agent Meets Checklist for Evaluating LLMs on Long-Context Legal Summarization &nbsp; <a href="https://yao-dou.github.io/gavel/" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Website]</a> <a href="https://github.com/Yao-Dou/gavel" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[GitHub]</a> <a href="https://www.arxiv.org/abs/2601.04424" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Paper]</a> \
+**Yao Dou**, Wei Xu\
+ArXiv Jan, 2026
+
 SimulatorArena: Are User Simulators Reliable Proxies for Multi-Turn Evaluation of AI Assistants? &nbsp; <a href="https://simulatorarena.ai" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Website]</a> <a href="https://github.com/microsoft/SimulatorArena" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[GitHub]</a> <a href="https://arxiv.org/abs/2510.05444" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Paper]</a> \
 **Yao Dou**, Michel Galley, Baolin Peng, Chris Kedzie, Weixin Cai, Alan Ritter, Chris Quirk, Wei Xu, Jianfeng Gao\
 EMNLP 2025
