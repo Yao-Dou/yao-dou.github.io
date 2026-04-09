@@ -36,6 +36,10 @@ EMNLP 2023
 Mounica Maddela\*, **Yao Dou**\*, David Heineman, Wei Xu\
 ACL 2023
 
+Is GPT-3 Text Indistinguishable from Human Text? Scarecrow 🎃: A Framework for Scrutinizing Machine Text &nbsp; <a href="https://yao-dou.github.io/scarecrow/" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Webpage]</a> <a href="https://arxiv.org/abs/2107.01294" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Paper]</a> \
+**Yao Dou**\*, Maxwell Forbes\*, Rik Koncel-Kedziorski, Noah A. Smith, Yejin Choi\
+ACL 2022
+
 ## Tutorial
 
 Automatic and Human-AI Interactive Text Generation <a href="https://acl2024-text-generation-tutorial.github.io/" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Webpage]</a> <a href="https://arxiv.org/abs/2310.03878" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Proposal]</a>\
@@ -79,10 +83,6 @@ EMNLP 2023 (Demo)
 Improving Large-scale Paraphrase Acquisition and Generation &nbsp; <a href="http://twitter-paraphrase.com/" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Webpage]</a>  <a href="https://arxiv.org/abs/2210.03235" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Paper]</a> \
 **Yao Dou**, Chao Jiang, Wei Xu\
 EMNLP 2022
-
-Is GPT-3 Text Indistinguishable from Human Text? Scarecrow 🎃: A Framework for Scrutinizing Machine Text &nbsp; <a href="https://yao-dou.github.io/scarecrow/" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Webpage]</a> <a href="https://arxiv.org/abs/2107.01294" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Paper]</a> \
-**Yao Dou**\*, Maxwell Forbes\*, Rik Koncel-Kedziorski, Noah A. Smith, Yejin Choi\
-ACL 2022
 
 MultiTalk: A Highly-Branching Dialog Testbed for Diverse Conversations <a href="https://arxiv.org/abs/2102.01263" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Paper]</a>\
 **Yao Dou**, Maxwell Forbes, Ari Holtzman, Yejin Choi\
