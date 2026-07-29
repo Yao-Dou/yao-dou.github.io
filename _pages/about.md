@@ -17,7 +17,7 @@ My research focuses on **evaluating large language models on hard-to-evaluate ta
 ## Representative Work
 
 Gavel: Agent Meets Checklist for Evaluating LLMs on Long-Context Legal Summarization &nbsp; <a href="https://yao-dou.github.io/gavel/" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Website]</a> <a href="https://github.com/Yao-Dou/gavel" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[GitHub]</a> <a href="https://www.arxiv.org/abs/2601.04424" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Paper]</a> \
-**Yao Dou**, Wei Xu\
+**Yao Dou**, Benjamin Mamut, Wei Xu\
 ArXiv Jan, 2026
 
 SimulatorArena: Are User Simulators Reliable Proxies for Multi-Turn Evaluation of AI Assistants? &nbsp; <a href="https://simulatorarena.ai" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Website]</a> <a href="https://github.com/microsoft/SimulatorArena" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[GitHub]</a> <a href="https://arxiv.org/abs/2510.05444" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Paper]</a> \
@@ -36,6 +36,12 @@ Is GPT-3 Text Indistinguishable from Human Text? Scarecrow 🎃: A Framework for
 **Yao Dou**\*, Maxwell Forbes\*, Rik Koncel-Kedziorski, Noah A. Smith, Yejin Choi\
 ACL 2022
 
+## Workshop
+
+Evaluation of Interactive Agents\
+**Yao Dou**, Siyan Li, Marwa Abdulhai, Nicholas Tomlin, Michel Galley, Jacob Eisenstein, Alan Ritter, Wei Xu\
+NeurIPS 2026
+
 ## Tutorial
 
 Automatic and Human-AI Interactive Text Generation <a href="https://acl2024-text-generation-tutorial.github.io/" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Webpage]</a> <a href="https://arxiv.org/abs/2310.03878" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Proposal]</a>\
@@ -43,6 +49,10 @@ Automatic and Human-AI Interactive Text Generation <a href="https://acl2024-text
 ACL 2024
 
 ## Others
+
+Localizing Prompt Ambiguity in Large Language Models with Probe-Targeted Attribution &nbsp; <a href="https://arxiv.org/abs/2606.05486" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Paper]</a> \
+Govind Ramesh, **Yao Dou**, Wei Xu\
+ArXiv Jun, 2026
 
 Evaluating LLMs on Chinese Idiom Translation &nbsp; <a href="https://arxiv.org/abs/2508.10421" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Paper]</a> \
 Cai Yang, **Yao Dou**, David Heineman, Xiaofeng Wu, Wei Xu\
@@ -93,4 +103,5 @@ David Heineman -> PYI at Allen Institute for AI \
 Cai Yang \
 Govind Ramesh \
 Jerry Lou Zheng \
+Benjamin Mamut \
 Vinayak Athavale
