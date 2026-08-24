@@ -40,7 +40,7 @@ ACL 2022
 
 ## Workshop
 
-Evaluation of Interactive Agents\
+Evaluation of Interactive Agents &nbsp; <a href="https://eval-interactive-agents-workshop.github.io/" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Website]</a> \
 **Yao Dou**, Siyan Li, Marwa Abdulhai, Nicholas Tomlin, Michel Galley, Jacob Eisenstein, Alan Ritter, Wei Xu\
 NeurIPS 2026
 
