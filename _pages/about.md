@@ -10,9 +10,11 @@ redirect_from:
 
 Hello, Welcome!
 
+I am a Member of Technical Staff at [SpaceXAI](https://x.ai/){:target="_blank"}, where I work on post-training for Grok.
+
 I recently received my Ph.D. from Georgia Tech, advised by [Prof. Wei Xu](https://cocoxu.github.io/){:target="_blank"}. I received my B.S. from University of Washington at age 20, advised by [Prof. Yejin Choi](https://homes.cs.washington.edu/~yejin/){:target="_blank"}.
 
-My research focuses on **evaluating large language models on hard-to-evaluate tasks**. I develop learned evaluation metrics, fine-grained evaluation methods, user simulators for multi-turn evaluation, and long-context evaluation with checklists and agents. I also explore applying LLMs to real-world problems such as measuring and protecting user privacy on social media.
+My Ph.D. research focused on evaluating large language models on hard-to-evaluate tasks. I developed learned evaluation metrics, fine-grained evaluation methods, user simulators for multi-turn evaluation, and long-context evaluation with checklists and agents. I also explored applying LLMs to real-world problems such as measuring and protecting user privacy on social media.
 
 ## Representative Work
 
