@@ -20,7 +20,7 @@ My Ph.D. research focused on evaluating large language models on hard-to-evaluat
 
 Gavel: Agent Meets Checklist for Evaluating LLMs on Long-Context Legal Summarization &nbsp; <a href="https://yao-dou.github.io/gavel/" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Website]</a> <a href="https://github.com/Yao-Dou/gavel" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[GitHub]</a> <a href="https://www.arxiv.org/abs/2601.04424" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Paper]</a> \
 **Yao Dou**, Benjamin Mamut, Wei Xu\
-ArXiv Jan, 2026
+EMNLP 2026
 
 SimulatorArena: Are User Simulators Reliable Proxies for Multi-Turn Evaluation of AI Assistants? &nbsp; <a href="https://simulatorarena.ai" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Website]</a> <a href="https://github.com/microsoft/SimulatorArena" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[GitHub]</a> <a href="https://arxiv.org/abs/2510.05444" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Paper]</a> \
 **Yao Dou**, Michel Galley, Baolin Peng, Chris Kedzie, Weixin Cai, Alan Ritter, Chris Quirk, Wei Xu, Jianfeng Gao\
@@ -54,7 +54,7 @@ ACL 2024
 
 Localizing Prompt Ambiguity in Large Language Models with Probe-Targeted Attribution &nbsp; <a href="https://arxiv.org/abs/2606.05486" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Paper]</a> \
 Govind Ramesh, **Yao Dou**, Wei Xu\
-ArXiv Jun, 2026
+Findings of EMNLP 2026
 
 Evaluating LLMs on Chinese Idiom Translation &nbsp; <a href="https://arxiv.org/abs/2508.10421" style="font-family: 'Courier New'; color: #2980B9; text-decoration: none;" target="_blank">[Paper]</a> \
 Cai Yang, **Yao Dou**, David Heineman, Xiaofeng Wu, Wei Xu\
