@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, Welcome!
 
-I am a Member of Technical Staff at [SpaceXAI](https://x.ai/){:target="_blank"}, where I work on post-training for Grok.
+I am a Member of Technical Staff at [SpaceXAI](https://x.ai/){:target="_blank"}, where I work on RL for improving Grok's behavior.
 
 I recently received my Ph.D. from Georgia Tech, advised by [Prof. Wei Xu](https://cocoxu.github.io/){:target="_blank"}. I received my B.S. from University of Washington at age 20, advised by [Prof. Yejin Choi](https://homes.cs.washington.edu/~yejin/){:target="_blank"}.
 
