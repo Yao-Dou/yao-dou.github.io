@@ -100,10 +100,8 @@ MultiTalk: A Highly-Branching Dialog Testbed for Diverse Conversations <a href="
 **Yao Dou**, Maxwell Forbes, Ari Holtzman, Yejin Choi\
 AAAI 2021
 
-## Undergraduate Advising
-David Heineman -> PYI at Allen Institute for AI \
-Cai Yang \
-Govind Ramesh \
-Jerry Lou Zheng \
-Benjamin Mamut \
-Vinayak Athavale
+## Mentorship
+
+I've been fortunate to mentor these undergraduate researchers: [David Heineman](https://davidheineman.com/){:target="_blank"}, [Cai Yang](https://www.linkedin.com/in/caiyangcy/){:target="_blank"}, [Govind Ramesh](https://www.linkedin.com/in/govind-ramesh-93a611202/){:target="_blank"}, [Jerry Lou Zheng](https://www.linkedin.com/in/jerry-lou-zheng/){:target="_blank"}, [Benjamin Mamut](https://www.linkedin.com/in/benjaminmamut/){:target="_blank"}, and [Vinayak Athavale](https://vaathavale.github.io/){:target="_blank"}.
+
+I'm also very grateful to [Maxwell Forbes](https://maxwellforbes.com/){:target="_blank"}, [Rik Koncel-Kedziorski](https://rikdz.github.io/){:target="_blank"}, and [Ari Holtzman](https://www.linkedin.com/in/ari-holtzman-a4654250/){:target="_blank"} for their mentorship during my undergraduate years.
